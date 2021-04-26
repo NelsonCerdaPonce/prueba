@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: burlywood;
+}
+
+#cabecera{
+    text-align: center;
+    font-size: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+.fsecciones{
+    width: 100%;
+    height: 100%;
+}
+
+p{
+    font-weight: bold;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+#footer{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#fti{
+    text-align: left;
+}
+
+h6{
+    text-align: right;
+}
+
+#i{
+    text-align: right;
+    border-radius: 50%;
+}
+
+.card-title{
+    color: black;
+    text-align: none;
+    text-decoration: none;
+}
+
+
+
